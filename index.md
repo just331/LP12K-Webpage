@@ -1,10 +1,7 @@
 # About 
 
-LP12K Project Webpage
+The LPK12 project investigates how computing can be integrated into K–12 STEM subjects. It is built on a principled framework that systematically and coherently integrates STEM subjects and computing through modern Logic Programming, referred to as the LPK12 framework. Through this webpage, we share the expansion of the LPK12 framework to programming languages beyond Logic Programming, the curricula based on these frameworks, findings on student learning and teacher professional development using the new curricula, related publications, and an assessment instrument we have developed. This project is partially supported by the National Science Foundation under Award No. DRL-1901704.
 
-## Current Research Project
-**LP12K:**
+[View Curriculum & Publications](./publications) 
 
-This project explores [brief description of your research]. We are currently investigating [specific methodology or experiment].
-
-[View My Publications](./publications) |
+![LPK12 Logo](./assets/lpk12_logo.png)
