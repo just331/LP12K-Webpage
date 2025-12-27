@@ -1,7 +1,12 @@
-/* Import the original theme styles first */
+---
+---
 @import "{{ site.theme }}";
 
 /* Hide the 'View on GitHub' link */
 p.view {
+  display: none !important;
+}
+/* Hide the footer */
+footer {
   display: none !important;
 }
